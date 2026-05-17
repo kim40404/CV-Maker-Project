@@ -19,3 +19,5 @@ https://roadmap.sh/projects/single-page-cv
 ## Credits
 
 ## FAQ
+
+## Preview
