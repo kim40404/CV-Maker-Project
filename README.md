@@ -7,3 +7,5 @@ https://roadmap.sh/projects/single-page-cv
 ## Changelog
 
 ## Roadmap
+
+## Tech Stack
