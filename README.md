@@ -11,3 +11,5 @@ https://roadmap.sh/projects/single-page-cv
 ## Tech Stack
 
 ## Screenshots
+
+## Contributing
