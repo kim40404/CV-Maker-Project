@@ -13,3 +13,5 @@ https://roadmap.sh/projects/single-page-cv
 ## Screenshots
 
 ## Contributing
+
+## License
