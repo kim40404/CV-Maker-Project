@@ -37,3 +37,5 @@ https://roadmap.sh/projects/single-page-cv
 ## Built With
 
 ## Getting Started
+
+## API Reference
