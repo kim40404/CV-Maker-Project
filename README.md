@@ -29,3 +29,5 @@ https://roadmap.sh/projects/single-page-cv
 ## Configuration
 
 ## Support
+
+## Acknowledgements
