@@ -39,3 +39,5 @@ https://roadmap.sh/projects/single-page-cv
 ## Getting Started
 
 ## API Reference
+
+## Environment Variables
