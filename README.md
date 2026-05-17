@@ -25,3 +25,5 @@ https://roadmap.sh/projects/single-page-cv
 ## Installation
 
 ## Dependencies
+
+## Configuration
